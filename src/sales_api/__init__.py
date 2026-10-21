@@ -1,0 +1,1 @@
+"""Sales API domain core."""
